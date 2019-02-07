@@ -1,7 +1,7 @@
 ## 새뜸마을 4단지 파이썬 스터디
 ### 기초
-- 우선 노트북이나 PC에 파이썬을 설치하면 좋겠지만, 우선 온라인 서비스를 이용해 파이썬 코드에 집중하겠습니다.  
-  핸즈온 튜토리얼(Hands-On Tutorial)이며 예습해 오시면 빨리 진행할 수 있습니다.
+- 우선 노트북이나 PC에 파이썬을 설치하면 좋겠지만, 우선 온라인 서비스를 이용해 파이썬 코드에 집중하겠습니다.   
+  핸즈온 튜토리얼(Hands-On Tutorial)이며 예습해 오시면 빨리 진행할 수 있습니다.  
   아래 내용 외 필요한 부분에 대해서는 특강 형태로 진행하려고 합니다.  
 - 기본 교재는 [점프 투 파이썬](https://wikidocs.net/book/1), 참고서는 [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) 입니다.  
   더불어, [참고자료](https://github.com/ur1ove/KEIML/tree/master/Python_2018-1) 입니다.(작년에 공장에서 진행했던 내용입니다.)  
