@@ -14,3 +14,9 @@
 - 목표 : 필요한 것은 스스로 만들면서 
 - 아두이노 : 버튼식 신호등 만들기?
 - 라즈베리파이 : 미세먼지 츣정기 만들기?
+### 외부 교육
+-
+-
+- [마르시스 코딩 교육](https://booking.naver.com/booking/12/bizes/130938) : 매월 학부모 세미나를 함  
+  [Meet <b>Dash & Dot</b> Robots for kids ages 6+ | Wonder Workshop](https://www.youtube.com/watch?v=LA9py48X6_o&list=PLCN7ILNd_rGE2p6fcIGM_nEkeiPs3chtF)
+- 
