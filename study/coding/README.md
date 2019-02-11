@@ -20,3 +20,5 @@
 - [마르시스 코딩 교육](https://booking.naver.com/booking/12/bizes/130938) : 매월 첫번째 목요일 오전 학부모 세미나 + @  
   [Meet <b>Dash & Dot</b> Robots for kids ages 6+ | Wonder Workshop](https://www.youtube.com/watch?v=LA9py48X6_o&list=PLCN7ILNd_rGE2p6fcIGM_nEkeiPs3chtF)
 - 
+### 
+- [아마존 Alexa 20강, G-CAMP](https://www.g.camp/tag/Amazon_Alexa?page=2)
