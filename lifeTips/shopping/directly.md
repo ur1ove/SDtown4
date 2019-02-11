@@ -1,0 +1,1 @@
+- 관세 : [아싸직구](http://www.ajpeople.com/bbs/board.php?bo_table=guide&wr_id=346), [아싸직구2](http://www.ajpeople.com/bbs/board.php?bo_table=free&wr_id=11003)
