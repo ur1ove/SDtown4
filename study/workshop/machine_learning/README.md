@@ -1,0 +1,1 @@
+- [EuroSciPy](https://www.euroscipy.org/2018/program.html)
