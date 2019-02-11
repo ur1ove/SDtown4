@@ -9,7 +9,7 @@
 - [20일 안에 끝내는 코딩, 스크래치야 반가워!](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788927746850&orderClick=LAG&Kc=) 와 [모두의 스크래치](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791160502268&orderClick=LAH&Kc=) 를 기준으로 교안이 나갑니다.
   (저희 아이들과 
 - 오프라인 에디터 설치 : [윈도우용](https://downloads.scratch.mit.edu/desktop/Scratch%20Desktop%20Setup%201.2.1.exe), [맥용](https://downloads.scratch.mit.edu/desktop/Scratch%20Desktop-1.2.1.dmg)
-- 하드웨어, 소프트웨어, 컴퓨팅 사고력(Computational Thnking)
+- 1일차 : ~~하드웨어, 소프트웨어, 컴퓨팅 사고력(Computational Thnking)~~
 ### 오픈소스 하드웨어
 - 목표 : 필요한 것은 스스로 만들면서 
 - 아두이노 : 버튼식 신호등 만들기?
