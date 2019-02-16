@@ -6,6 +6,7 @@
 (우리 아이가 코딩교육을 통해 무엇을 배우면 좋을까?)  
 ### 스크래치(초등학생 3학년이상 ~~이하~~)
 - 목표 : 스크래치로 아이들과 놀기
+- 25분씩 2타임으로 1시간 이내로 진행합니다.
 - [20일 안에 끝내는 코딩, 스크래치야 반가워!](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788927746850&orderClick=LAG&Kc=) 와 [모두의 스크래치](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791160502268&orderClick=LAH&Kc=) 를 기준으로 교안이 나갑니다.
   (저희 아이들과 
 - 오프라인 에디터 설치 : [윈도우용](https://downloads.scratch.mit.edu/desktop/Scratch%20Desktop%20Setup%201.2.1.exe), [맥용](https://downloads.scratch.mit.edu/desktop/Scratch%20Desktop-1.2.1.dmg)
