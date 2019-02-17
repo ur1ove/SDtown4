@@ -6,13 +6,15 @@
 - 기본 교재는 [점프 투 파이썬](https://wikidocs.net/book/1), 참고서는 [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) 입니다.  
   더불어, [참고자료](https://github.com/ur1ove/KEIML/tree/master/Python_2018-1) 입니다.(작년에 공장에서 진행했던 내용입니다.)  
   ※ 교재는 안 사도 되지만, ~~책 쓰는 사람의 노고를 생각하신다면^^ 알아서^^(저 자자 모릅니다.)~~
-- 대화 및 공유는 페이스북을 기본으로 하겠습니다.  
+- 대화 및 공유는 페이스북과 슬랙을 기본으로 하겠습니다.  
   페이스북을 가입하시고 [저](https://www.facebook.com/ur1ove)를 친구 추가하시면 챗방에 초대해 드리겠습니다.  
   (데이터나 인공지능 주요 커뮤니티는 페이스북에 있습니다.)  
   더불어, [슬랙](https://sddcode.slack.com)도 활용합니다.(~~제가 주로 사용해서^^;;;~~) 자료는 깃허브와 슬랙을 통해 공유하겠습니다.  
 - 코드가 손에 뭍어날 때까지 코드를 계속 반복해야 코드가 늡니다.  
 - 출발은 기초(문법편) 이지만, [캐글](https://www.kaggle.com/) 수준(직접 모델링할 수 있는)까지 함께 갔으면 좋겠습니다.
+- 장소는 아파트단지 회의실(피트니스 입구와 새뜸홈마트 사이에 위치)
 ### 기초(문법편) 일정 : 2시간+ x 6회 / 점프 투 파이썬 떼기=33
+- 0일차(2/18) : 상견례 및 일정 협의, [본인 노트북에 코딩환경 만들기](https://github.com/ur1ove/KEIML/blob/master/Python_2018-1/01_Download_Anaconda.md)  
 - 1일차 : [애저 노트북(Microsoft Azure Notebook)](https://notebooks.azure.com/) 사용하기, 자료형 일부
 - 2일차 : 자료형 완성 <- [02장 파이썬 프로그래밍의 기초, 자료형](https://wikidocs.net/11)
 - 3일차 : 제어문 <- [03장 프로그램의 구조를 쌓는다! 제어문](https://wikidocs.net/19)
