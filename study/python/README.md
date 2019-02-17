@@ -14,7 +14,7 @@
 - 출발은 기초(문법편) 이지만, [캐글](https://www.kaggle.com/) 수준(직접 모델링할 수 있는)까지 함께 갔으면 좋겠습니다.
 - 장소는 [아파트단지 회의실](img/회의실_위치.jpg)(피트니스 입구와 새뜸홈마트 사이에 위치)
 ### 기초(문법편) 일정 : 2시간+ x 6회 / 점프 투 파이썬 떼기=33
-- 0일차(2/18) : 상견례 및 일정 협의, [본인 노트북에 코딩환경 만들기](https://github.com/ur1ove/KEIML/blob/master/Python_2018-1/01_Download_Anaconda.md)  
+- 0일차(2/19, 화요일 오후 7시 30) : 상견례 및 일정 협의, [본인 노트북에 코딩환경 만들기](https://github.com/ur1ove/KEIML/blob/master/Python_2018-1/01_Download_Anaconda.md)  
 - 1일차 : [애저 노트북(Microsoft Azure Notebook)](https://notebooks.azure.com/) 사용하기, 자료형 일부
 - 2일차 : 자료형 완성 <- [02장 파이썬 프로그래밍의 기초, 자료형](https://wikidocs.net/11)
 - 3일차 : 제어문 <- [03장 프로그램의 구조를 쌓는다! 제어문](https://wikidocs.net/19)
