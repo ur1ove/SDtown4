@@ -1,11 +1,13 @@
 ## 새뜸마을 4단지 파이썬 스터디
 ### 기초
-- 우선 노트북이나 PC에 파이썬을 설치하면 좋겠지만, 온라인 서비스를 이용해 <b>파이썬 코드에 집중</b>하겠습니다.   
-  <b>핸즈온 튜토리얼(Hands-On Tutorial)</b>이며 예습해 오시면 빨리 진행할 수 있습니다.  
-  아래 내용 외 필요한 부분에 대해서는 특강 형태로 진행하려고 합니다.  
-- 기본 교재는 [점프 투 파이썬](https://wikidocs.net/book/1), 참고서는 [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) 입니다.  
-  더불어, [참고자료](https://github.com/ur1ove/KEIML/tree/master/Python_2018-1) 입니다.(작년에 공장에서 진행했던 내용입니다.)  
-  ※ 교재는 안 사도 되지만, ~~책 쓰는 사람의 노고를 생각하신다면^^ 알아서^^(저 자자 모릅니다.)~~
+- (목적) 남의 코드를 내 것처럼 사용하자.  
+  따라서 오롯이 <b>코드에 집중</b>하겠습니다.  
+  <b>핸즈온 튜토리얼(Hands-On Tutorial)</b> 형태로 진행하겠습니다.  
+  (코드는 무조건 스스로 입력합니다. 물론 마치면 제가 작성한 파일을 깃허브에 커밋하겠습니다.)  
+- (주교재) [점프 투 파이썬](https://wikidocs.net/book/1)  
+  (참고) [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)  
+  ※ 그외 필요한 부분 또는 요청이 있을 경우 특강이나 워크숍으로 진행하겠습니다.  
+- (온라인) 
 - 대화 및 공유는 페이스북과 슬랙을 기본으로 하겠습니다.  
   페이스북을 가입하시고 [저](https://www.facebook.com/ur1ove)를 친구 추가하시면 챗방에 초대해 드리겠습니다.  
   (데이터나 인공지능 주요 커뮤니티는 페이스북에 있습니다.)  
@@ -17,7 +19,7 @@
 - 0일차(2/19, 화요일 오후 7시 30분부터 2시간+)  
   (1) 파이썬 스터디 소개  
   (2) 상견례 및 일정 협의  
-  (3) [코딩환경 만들어보기(아나콘다 설치 및 사용방법)](https://github.com/ur1ove/KEIML/blob/master/Python_2018-1/01_Download_Anaconda.md), [깃(Git)과 깃허브(GitHub)](https://github.com/keibigdata/BigPortal/tree/master/docs/colloboration/git)  
+  (3) [코딩환경 만들어보기(아나콘다 설치 및 사용방법)](https://github.com/ur1ove/KEIML/blob/master/Python_2018-1/01_Download_Anaconda.md), [깃(Git)과 깃허브(GitHub) 사용방법](https://github.com/keibigdata/BigPortal/tree/master/docs/colloboration/git)  
 - 1일차 : [애저 노트북(Microsoft Azure Notebook)](https://notebooks.azure.com/) 사용하기, 자료형 일부
 - 2일차 : 자료형 완성 <- [02장 파이썬 프로그래밍의 기초, 자료형](https://wikidocs.net/11)
 - 3일차 : 제어문 <- [03장 프로그램의 구조를 쌓는다! 제어문](https://wikidocs.net/19)
