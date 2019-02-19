@@ -17,7 +17,7 @@
 ### 기초(문법편) 일정 : 2시간+ x 6회 / 점프 투 파이썬 떼기=33
 - 0일차(2/19, 화요일 오후 7시 30분부터 2시간+)  
   (1) 파이썬 스터디 소개  
-  (2) 상견례 및 일정 협의  
+  (2) 상견례 및 일정 협의 : 재주 화요일  
   (3) [코딩환경 만들어보기(아나콘다 설치 및 사용방법)](https://github.com/ur1ove/KEIML/blob/master/Python_2018-1/01_Download_Anaconda.md), [깃(Git)과 깃허브(GitHub) 사용방법](https://github.com/keibigdata/BigPortal/tree/master/docs/colloboration/git)  
 - 1일차 : [애저 노트북(Microsoft Azure Notebook)](https://notebooks.azure.com/) 사용하기, 자료형 일부
 - 2일차 : 자료형 완성 <- [02장 파이썬 프로그래밍의 기초, 자료형](https://wikidocs.net/11)
