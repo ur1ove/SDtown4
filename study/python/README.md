@@ -26,7 +26,8 @@
 - 5일차 : 클래스 <- [05장 파이썬 날개달기](https://wikidocs.net/27)
 - 6일차 : 나머지, 코딩 환경 만들기
 ### 기초(활용편) 일정
+- [From analysis to modeling(RF, LSTM)](https://www.kaggle.com/leekltw1/from-analysis-to-modeling-rf-lstm)  
 - 생각해보겠습니다.
 ### 중급(속성편) 일정
-- 다 필요없고 [캐글](https://www.kaggle.com/)로 갑니다. 그런데, 그냥 가면 아무것도 못합니다. 왜? 보시면 압니다.
-- [From analysis to modeling(RF, LSTM)](https://www.kaggle.com/leekltw1/from-analysis-to-modeling-rf-lstm)  
+- 다 필요없고 [캐글](https://www.kaggle.com/)로 갑니다. 그런데, 그냥 가면 아무것도 못합니다. 왜? 보시면 압니다.  
+
