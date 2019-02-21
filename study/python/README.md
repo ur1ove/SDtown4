@@ -27,6 +27,7 @@
 - 6일차 : 나머지, 코딩 환경 만들기
 ### 기초(활용편) 일정
 - [From analysis to modeling(RF, LSTM)](https://www.kaggle.com/leekltw1/from-analysis-to-modeling-rf-lstm)  
+- [맹개발의 기술 블로그(2018.3.18), "2015-04-12 Zotero (구글 스칼라에서 논문 서지정보 한꺼번에 가져오기)", https://maengdev.tistory.com/73, 검색일: 2019.2.19](https://maengdev.tistory.com/73)  
 - 생각해보겠습니다.
 ### 중급(속성편) 일정
 - 다 필요없고 [캐글](https://www.kaggle.com/)로 갑니다. 그런데, 그냥 가면 아무것도 못합니다. 왜? 보시면 압니다.  
