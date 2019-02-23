@@ -19,12 +19,12 @@
   (1) 파이썬 스터디 소개  
   (2) 상견례 및 일정 협의 : 재주 화요일  
   (3) [코딩환경 만들어보기(아나콘다 설치 및 사용방법)](https://github.com/ur1ove/KEIML/blob/master/Python_2018-1/01_Download_Anaconda.md)
-- 1일차 : [애저 노트북(Microsoft Azure Notebook)](https://notebooks.azure.com/) 사용하기, 자료형 일부, [깃(Git)과 깃허브(GitHub) 사용방법](https://github.com/keibigdata/BigPortal/tree/master/docs/colloboration/git)  
-- 2일차 : 자료형 완성 <- [02장 파이썬 프로그래밍의 기초, 자료형](https://wikidocs.net/11)
-- 3일차 : 제어문 <- [03장 프로그램의 구조를 쌓는다! 제어문](https://wikidocs.net/19)
-- 4일차 : 함수, 파일 입출력 <- [04장 프로그램의 입력과 출력은 어떻게 해야 할까?](https://wikidocs.net/23)
-- 5일차 : 클래스 <- [05장 파이썬 날개달기](https://wikidocs.net/27)
-- 6일차 : 나머지, 코딩 환경 만들기
+- 1일차(3/7, 목요일 오후 7시 30분부터 2시간~) : [애저 노트북(Microsoft Azure Notebook)](https://notebooks.azure.com/) 사용하기, 자료형 일부, [깃(Git)과 깃허브(GitHub) 사용방법](https://github.com/keibigdata/BigPortal/tree/master/docs/colloboration/git)  
+- 2일차(3/12, 화요일 오후 7시 30분부터 2시간~) : 자료형 완성 <- [02장 파이썬 프로그래밍의 기초, 자료형](https://wikidocs.net/11)
+- 3일차(3/14, 목요일 오후 7시 30분부터 2시간~) : 제어문 <- [03장 프로그램의 구조를 쌓는다! 제어문](https://wikidocs.net/19)
+- 4일차(3/19, 화요일 오후 7시 30분부터 2시간~) : 함수, 파일 입출력 <- [04장 프로그램의 입력과 출력은 어떻게 해야 할까?](https://wikidocs.net/23)
+- 5일차(3/21, 목요일 오후 7시 30분부터 2시간~) : 클래스 <- [05장 파이썬 날개달기](https://wikidocs.net/27)
+- 6일차(3/26, 화요일 오후 7시 30분부터 2시간~) : 나머지, 코딩 환경 만들기
 ### 기초(활용편) 일정
 - [From analysis to modeling(RF, LSTM)](https://www.kaggle.com/leekltw1/from-analysis-to-modeling-rf-lstm)  
 - [맹개발의 기술 블로그(2018.3.18), "2015-04-12 Zotero (구글 스칼라에서 논문 서지정보 한꺼번에 가져오기)", https://maengdev.tistory.com/73, 검색일: 2019.2.19](https://maengdev.tistory.com/73)  
