@@ -1,0 +1,1 @@
+- 공개 토렌트 사용 시 주의할 점: [다운로드 정보 공개](https://iknowwhatyoudownload.com/)
