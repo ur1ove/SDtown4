@@ -23,7 +23,7 @@
   (1) [애저 노트북(Microsoft Azure Notebook)](https://notebooks.azure.com/) 사용하기  
   (2) [02장 파이썬 프로그래밍의 기초, 자료형](https://wikidocs.net/11)  
 - 2일차(3/12, 화요일 오후 7시 30분부터 2시간~)  
-  (1) [02장 파이썬 프로그래밍의 기초, 자료형 리뷰(10분이내)](https://wikidocs.net/11)
+  (1) [02장 파이썬 프로그래밍의 기초, 자료형 리뷰(10분이내)](https://wikidocs.net/11)  
   (2) [깃(Git)과 깃허브(GitHub) 사용방법](https://github.com/keibigdata/BigPortal/tree/master/docs/colloboration/git)  
   (3) 코드를 이용한 [03장 프로그램의 구조를 쌓는다! 제어문](https://wikidocs.net/19)  
 - 3일차(3/14, 목요일 오후 7시 30분부터 2시간~) : 제어문 <- 
