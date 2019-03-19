@@ -27,14 +27,15 @@
   (2) [깃(Git)과 깃허브(GitHub) 사용방법](https://github.com/keibigdata/BigPortal/tree/master/docs/colloboration/git)  
   (3) 코드를 이용한 [03장 프로그램의 구조를 쌓는다! 제어문](https://wikidocs.net/19)  
   (4) 코드를 이용한 [04-1장 함수](https://wikidocs.net/24)
-- 3일차(3/14, 목요일 오후 7시 30분부터 2시간~)
+- 3일차(3/14, 목요일 오후 7시 30분부터 2시간~)  
   (1) 코드를 이용한 [03장 프로그램의 구조를 쌓는다! 제어문 리뷰](https://wikidocs.net/19)  
-  (2) 코드를 이용한 [04-1장 함수 리뷰](https://wikidocs.net/24)
-  (2) [From analysis to modeling(RF, LSTM)](https://www.kaggle.com/leekltw1/from-analysis-to-modeling-rf-lstm)  
+  (2) 코드를 이용한 [04-1장 함수 리뷰](https://wikidocs.net/24)  
+  (3) [From analysis to modeling(RF, LSTM)](https://www.kaggle.com/leekltw1/from-analysis-to-modeling-rf-lstm)  
 - 4일차(3/19, 화요일 오후 7시 30분부터 2시간~)  
   (1) 데이터 마이닝 학회 KDD : [KDD2018](https://www.kdd.org/kdd2018/), [KDD2019, 8월 4일~8일, 미국 앵커리지](https://www.kdd.org/kdd2019/)  
   (2) 머신러닝 학회 ICML : [ICML2018](https://icml.cc/Conferences/2018), [ICML2019, 6월 9일~15일, 미국 LA](https://icml.cc/Conferences/2019)  
   (3) 딥러닝 학회 NeurlPS(NIPS) : [NeurlPS2018](https://nips.cc/Conferences/2018), [NeurlPS2019, 12월 8일~14일, 밴쿠버](https://nips.cc/Conferences/2019)  
+  (4) [From analysis to modeling(RF, LSTM) 리뷰](https://www.kaggle.com/leekltw1/from-analysis-to-modeling-rf-lstm)  
 - 5일차(3/21, 목요일 오후 7시 30분부터 2시간~) : 클래스 <- [05장 파이썬 날개달기](https://wikidocs.net/27)
 - 6일차(3/26, 화요일 오후 7시 30분부터 2시간~) : 나머지, 코딩 환경 만들기
 ### 기초(활용편) 일정
