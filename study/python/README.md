@@ -36,6 +36,7 @@
   (2) 머신러닝 학회 ICML : [ICML2018](https://icml.cc/Conferences/2018), [ICML2019, 6월 9일~15일, 미국 LA](https://icml.cc/Conferences/2019)  
   (3) 딥러닝 학회 NeurlPS(NIPS) : [NeurlPS2018](https://nips.cc/Conferences/2018), [NeurlPS2019, 12월 8일~14일, 캐나다 밴쿠버](https://nips.cc/Conferences/2019)  
   (4) [From analysis to modeling(RF, LSTM) 리뷰](https://www.kaggle.com/leekltw1/from-analysis-to-modeling-rf-lstm)  
+  (5) [캐글](https://www.kaggle.com/)  
 - 5일차(3/21, 목요일 오후 7시 30분부터 2시간~) : 클래스 <- [05장 파이썬 날개달기](https://wikidocs.net/27)
 - 6일차(3/26, 화요일 오후 7시 30분부터 2시간~) : 나머지, 코딩 환경 만들기
 ### 기초(활용편) 일정
