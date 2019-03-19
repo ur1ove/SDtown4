@@ -31,7 +31,7 @@
   (1) 코드를 이용한 [03장 프로그램의 구조를 쌓는다! 제어문 리뷰](https://wikidocs.net/19)  
   (2) 코드를 이용한 [04-1장 함수 리뷰](https://wikidocs.net/24)
   (2) [From analysis to modeling(RF, LSTM)](https://www.kaggle.com/leekltw1/from-analysis-to-modeling-rf-lstm)  
-- 4일차(3/19, 화요일 오후 7시 30분부터 2시간~)
+- 4일차(3/19, 화요일 오후 7시 30분부터 2시간~)  
   (1) 데이터 마이닝 학회 KDD : [KDD2018](https://www.kdd.org/kdd2018/), [KDD2019, 8월 4일~8일, 미국 앵커리지](https://www.kdd.org/kdd2019/)  
   (2) 머신러닝 학회 ICML : [ICML2018](https://icml.cc/Conferences/2018), [ICML2019, 6월 9일~15일, 미국 LA](https://icml.cc/Conferences/2019)  
   (3) 딥러닝 학회 NeurlPS(NIPS) : [NeurlPS2018](https://nips.cc/Conferences/2018), [NeurlPS2019, 12월 8일~14일, 밴쿠버](https://nips.cc/Conferences/2019)  
