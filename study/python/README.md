@@ -36,9 +36,14 @@
   (2) 머신러닝 학회 ICML : [ICML2018](https://icml.cc/Conferences/2018), [ICML2019, 6월 9일~15일, 미국 LA](https://icml.cc/Conferences/2019)  
   (3) 딥러닝 학회 NeurlPS(NIPS) : [NeurlPS2018](https://nips.cc/Conferences/2018), [NeurlPS2019, 12월 8일~14일, 캐나다 밴쿠버](https://nips.cc/Conferences/2019)  
   (4) [From analysis to modeling(RF, LSTM) 리뷰](https://www.kaggle.com/leekltw1/from-analysis-to-modeling-rf-lstm)  
-  (5) [캐글](https://www.kaggle.com/)  
-- 5일차(3/21, 목요일 오후 7시 30분부터 2시간~) : 클래스 <- [05장 파이썬 날개달기](https://wikidocs.net/27)
-- 6일차(3/26, 화요일 오후 7시 30분부터 2시간~) : 나머지, 코딩 환경 만들기
+  (5) [캐글](https://www.kaggle.com/)    
+- 5일차(3/26, 화요일 오후 7시 30분부터 2시간~)  
+클래스 <- [05장 파이썬 날개달기](https://wikidocs.net/27)
+  (4) [Probability of Earthquake: EDA, FE, +5 Models 리뷰](https://www.kaggle.com/mjbahmani/probability-of-earthquake-eda-fe-5-models)  
+- 6일차(4/2, 화요일 오후 7시 30분부터 2시간~)  
+  (1) [Data ScienceTutorial for Beginners](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)  
+  (2) 쫑파티, 치맥~!!!  
+  
 ### 기초(활용편) 일정
 - [From analysis to modeling(RF, LSTM)](https://www.kaggle.com/leekltw1/from-analysis-to-modeling-rf-lstm)  
 - [맹개발의 기술 블로그(2018.3.18), "2015-04-12 Zotero (구글 스칼라에서 논문 서지정보 한꺼번에 가져오기)", https://maengdev.tistory.com/73, 검색일: 2019.2.19](https://maengdev.tistory.com/73)  
