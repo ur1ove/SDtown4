@@ -43,7 +43,7 @@
   (3) [Probability of Earthquake: EDA, FE, +5 Models 리뷰](https://www.kaggle.com/mjbahmani/probability-of-earthquake-eda-fe-5-models)  
 - 6일차(4/2, 화요일 오후 7시 30분부터 2시간~)  
   (1) [Data ScienceTutorial for Beginners 리뷰](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)  
-  (2) 쫑파티, 치맥~!!!  
+  (2) 쫑파티, 치소~!!!  
   
 ### 기초(활용편) 일정
 - [From analysis to modeling(RF, LSTM)](https://www.kaggle.com/leekltw1/from-analysis-to-modeling-rf-lstm)  
