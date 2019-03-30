@@ -39,7 +39,8 @@
   (5) [캐글](https://www.kaggle.com/)    
 - 5일차(3/26, 화요일 오후 7시 30분부터 2시간~)  
   (1) 질의응답  
-  (2) [Probability of Earthquake: EDA, FE, +5 Models 리뷰](https://www.kaggle.com/mjbahmani/probability-of-earthquake-eda-fe-5-models)  
+  (2) [밑바닥부터 시작하는 딥러닝 3장 코드리뷰](https://github.com/pineoc/Deep-Learning-scratch-study/tree/master/book-code/ch03)  
+  (3) [Probability of Earthquake: EDA, FE, +5 Models 리뷰](https://www.kaggle.com/mjbahmani/probability-of-earthquake-eda-fe-5-models)  
 - 6일차(4/2, 화요일 오후 7시 30분부터 2시간~)  
   (1) [Data ScienceTutorial for Beginners 리뷰](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)  
   (2) 쫑파티, 치맥~!!!  
