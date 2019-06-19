@@ -59,3 +59,7 @@ UVCIOC_CTRL_MAP - Error at Raw bits per pixel: Inappropriate ioctl for device (2
  o: username:password....: disabled
  o: commands.............: enabled
 ~~~
+~~~
+501: Not Implemented!
+no www-folder configured
+~~~
