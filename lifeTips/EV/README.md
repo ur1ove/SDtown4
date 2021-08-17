@@ -1,6 +1,6 @@
 ## 전기차(EV)
 
-- [스타코프 요금제](https://www.starkoff.co.kr/price-list): 173.8원/kW
+- [스타코프 요금제](https://www.starkoff.co.kr/price-list): 173.8원/kW vs 환경부 급속: 50kW 292.9원/kw, 그 외 309.1원/kW
 - [한전 전기요금표](https://cyber.kepco.co.kr/ckepco/front/jsp/CY/E/E/CYEEHP00108.jsp): 자가소비가 제일 저렴함!!!
 
 
